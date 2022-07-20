@@ -1,0 +1,15 @@
+{
+  "name": "mycoffeeapp",
+  "version": "1.0.0",
+  "description": "Coffee App(First Side Project)",
+  "main": "server.js",
+  "scripts": {
+    "start": "node backend/server.js",
+    "server": "nodemon backend/server.js"
+  },
+  "author": "Aaron Yii",
+  "license": "MIT",
+  "devDependencies": {
+    "nodemon": "^2.0.19"
+  }
+}
